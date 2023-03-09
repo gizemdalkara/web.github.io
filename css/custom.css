@@ -1,0 +1,31 @@
+#include{
+  margin-top:70px !important;
+}
+.carousel{
+  margin-top:50px;
+}
+#homepagedemo img{
+  width: 100% !important;
+  height: 300px !important;
+}
+#urun-list{
+  margin-top: 20px;
+}
+#tab-services-list{
+  margin-top: 20px;
+}
+#contact-include{
+  margin-top:50px;
+}
+#part{
+  margin-top: 20px;
+}
+#part1{
+  margin-top: 20px;
+}
+#form1{
+  margin-bottom: 10px;
+}
+#aboutus{
+  margin-top: 20px;
+}
